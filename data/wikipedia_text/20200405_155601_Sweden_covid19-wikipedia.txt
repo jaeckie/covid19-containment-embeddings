@@ -1,0 +1,116 @@
+
+The ongoing worldwide pandemic of coronavirus disease 2019 (COVID-19), a new infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was confirmed to have reached Sweden on 31 January 2020, when a woman returning from Wuhan tested positive. Starting from 26 February, following outbreaks in Italy and in Iran, multiple travel-related clusters appeared in Sweden. Community transmission was confirmed on 9 March in the Stockholm region. Since then, individuals in every län (county) have tested positive for COVID-19. The first death was reported on 11 March in Stockholm, a case of community transmission.
+Sweden has, unlike many other countries, not applied any lockdown, with most measures being voluntary. The Swedish constitution prohibits ministerial rule and mandates that the relevant government body, here an 'expert agency': the Public Health Agency — must initiate all actions to prevent the virus. On agency recommendation, the government can follow, as it has with legislation limiting freedom of assembly, temporarily banning gatherings of over 50 individuals; as well as physically closing secondary schools and universities. Primary schools have remained open, in part to avoid healthcare workers from needing to stay home with their children.
+The Public Health Agency and government issued recommendations to work from home, if possible; for people above 70 to stay at home; and issued general 
+recommendations to avoid unnecessary travel within the country and to keep a social distance between people. Those with even minimal symptoms which could be COVID-19 are recommended to stay home. The 'karensdag' or initial day without paid sick-leave has been removed by the government and the length of time one can stay home without a doctor's note has been raised from 7 to 21 days.
+As of 5 April 2020[update], there were 6,830 confirmed cases, of which 541 received intensive care, and 401 deaths related to the newly found virus in Sweden, with Stockholm County being the most affected.[1]
+Contents1 History2 Response by sector
+
+2.1 Government
+
+2.1.1 Policy
+2.1.2 Response
+2.1.3 Rules and legislation
+2.1.4 Economics
+
+
+2.2 Public healthcare system
+
+2.2.1 Staffing
+2.2.2 Equipment
+2.2.3 Beds
+
+
+2.3 Economics
+2.4 Transport
+
+2.4.1 Aviation
+2.4.2 Public transport
+
+
+2.5 Education
+2.6 Defence
+2.7 Politics
+2.8 Culture
+2.9 Sports
+
+2.1 Government
+
+2.1.1 Policy
+2.1.2 Response
+2.1.3 Rules and legislation
+2.1.4 Economics
+
+2.1.1 Policy2.1.2 Response2.1.3 Rules and legislation2.1.4 Economics2.2 Public healthcare system
+
+2.2.1 Staffing
+2.2.2 Equipment
+2.2.3 Beds
+
+2.2.1 Staffing2.2.2 Equipment2.2.3 Beds2.3 Economics2.4 Transport
+
+2.4.1 Aviation
+2.4.2 Public transport
+
+2.4.1 Aviation2.4.2 Public transport2.5 Education2.6 Defence2.7 Politics2.8 Culture2.9 Sports3 International response4 Debate
+
+4.1 International public response
+
+4.1 International public response5 Statistics
+
+5.1 Additional data
+
+5.1.1 Tables
+5.1.2 Charts
+
+
+
+5.1 Additional data
+
+5.1.1 Tables
+5.1.2 Charts
+
+5.1.1 Tables5.1.2 Charts6 Timeline7 References8 External linksHistory[edit]The COVID-19 outbreak, which the World Health Organization (WHO) declared a pandemic on 11 March,[2] has had a disparate impact on different areas of Sweden. The first case was introduced directly from Wuhan to the country on 24 January, with a woman confirmed positive for the virus on 31 January in Jönköping. The case was fully isolated and there are no reports of further spread.[3][4]
+The second case was introduced from northern Italy on 26 February.[5][3] With five additional cases confirmed on the 12th, the Swedish Public Health Agency ('Folkhälsomyndigheten') put out a statement that these cases were all related to travel to high-risk zones and that there was no evidence of community transmission.[6] Disease control measures, including extensive contact tracing turned up over 200 travel-related cases in the following weeks, all with connection to confirmed cases or travel to high risk regions.[7] The Public Health Agency expanded testing for Covid-19 on 4 March beyond only those who have been in risk areas abroad, to also test cases of pneumonia without known cause.[8]
+
+On 9 March the first cases of community transmission was confirmed among two patients who had sought care at S:t Göran Hospital on 6 March.[10] They were assumed to have been infected through community transmission approximately 7 days before seeking care.[citation needed]
+The Public Health Agency of Sweden responded on the 10th by raising risk assessment of community spread from moderate to very high, which is the highest level.[11][11]
+The first death was reported on 11 March, when a person in their 70s from the Stockholm region died in the intensive care unit of Karolinska University Hospital. The person was reported to have acquired the virus through community transmission, believed to have occurred about one week before death. The person also belonged to a risk group.[12]
+The Public Health Agency of Sweden declared on 13 March that stopping the spread of Covid-19 has entered a "new phase" which requires "other efforts". The continued focus is now to delay spread among the population and to protect the elderly and most vulnerable against the disease.[13]
+Response by sector[edit]Government[edit]The Swedish government has tried to focus efforts on encouraging the right behaviour and creating social norms rather than mandatory restrictions. Government officials including Swedish prime minister Stefan Löfven, as well as the Public Health Agency of Sweden have encouraged each individual to take responsibility for their own health and the health of others.[14] Löfven has stated that stricter measures will be taken as appropriate, and as guided by the expert agencies.[15]
+The Swedish constitution mandates that the relevant expert agency, the Public Health Agency, must issue advice prior to any government actions aiming to prevent the spread of the virus with a strong mandate that the expert agencies should initiate actions, avoiding rule by ministers.[16]
+The government has issued progressively stricter advisories against travel. Beginning on the 17th February, the Swedish Ministry of Foreign Affairs advised against all trips to the Hubei province in China, as well as non-essential travel to the rest of China apart from Hong Kong and Macao.[17][18]
+On 2 March the Ministry for Foreign Affairs advised against trips to Iran, due to the uncontrolled spread of the Covid-19 in the country.[19] The Swedish Transport Agency also revoked Iran Airs permit for Iranian flights to land in Sweden from the same date.[20][21] On 6 March, the Ministry for Foreign Affairs advised against all non-necessary trips to northern Italy, specifically the regions of Piemonte, Liguria, Lombardia, Emilia-Romagna, Trentino-Alto Adige, Valle d'Aosta, Veneto, Friuli Venezia Giulia, Marche and Toscana.[22] Turin, Milan, Venice, Verona, Trieste and Florence are large cities in these regions. The Public Health Agency of Sweden, who initiated the recommendation for the Ministry for Foreign Affairs, states that the decision is based solely on the strain of the Italian health care system.[23] This was extended 10 March to include all of Italy.[24] Finally, all international travel was recommended against the 14th of March.[25] Travel from non-EU/EES member states was stopped the 17th of March[26] and unnecessary travel within Sweden was advised against the 19th of March.[27][28]
+The Public Health Agency of Sweden recommended on 16 March that people over 70 should limit close contact with other people, and employers should recommend their employees work from home.[29]
+The following day, the agency recommended that secondary schools and universities use distance learning,[30] with schools following suit all over the country.[31]
+On 11 March, the same day as the first Swedish death to COVID-19, the Swedish government passed a new law, limiting freedom of assembly by temporarily banning all gatherings larger than 500 people, with threat of fine and prison.[32] The ban will apply until further notice.[33]</ref
+On 27 March the government announced that gatherings of more than 50 people were banned.[34][35]
+The same day, the karensdag, the unpaid first day of sick leave, was temporarily discontinued in an effort to encourage people to stay home if they were experiencing symptoms that are consistent with COVID-19.[36]
+On 24 March 2020, the government introduced new restrictions to bars and restaurants requiring all service to be table service only. Venues that do not adhere to the new restrictions could be shut down.[37]
+The normal costs of employer contributions have also been temporarily discontinued for small business owners. This will save small businesses approximately 5000 SEK per employee each month but will result in a loss of tax revenue of 33 billion SEK.[38]
+Local governments, such as the municipal government in Gävle, have applied measures to businesses delaying the payment of invoices until September 1, 2020 at the earliest and deferring rent payments.[39]
+On 2 April, the Financial Supervisory Authority ('Finansinspektionen') decided that Swedish banks temporarily can allow exemptions for housing mortgage lenders regarding amortizing of loans.[40]
+Public healthcare system[edit]The increasing number of cases in large areas such as Stockholm and Uppsala has resulted in the cancellation or postponement of up to 90% of planned surgeries, including cancer related surgeries.[41]
+On 25 March 2020, Björn Eriksson, the Director of Healthcare in Stockholm, appealed to anyone in the Stockholm region who had experience in healthcare to volunteer. As of the 26 March 2020, 5100 people with healthcare experience had registered as volunteers.[42]
+On 13 March, media reported that there is a shortage in personal protective equipment (PPE) for health care staff, and hospitals in Stockholm have been forced to reuse disposable PPEs after sanitation. The regional Health Care Director warned about this scenario in early March and government agencies have temporarily waived the public procurement law in order to hastily procure more supplies.[43] The National Board of Health and Welfare ('Socialstyrelsen') confirmed that there is no preparedness storage and nothing to distribute to the health care sector.[44][45]
+The Stockholm International Fairs, Stockholmsmässan, are being converted into a field hospital with the help of the Swedish Defence Forces. The field hospital will be able to house 600 seriously and critically sick patients.[46] The Swedish Defence Forces will provide equipment for 30 of the 600 beds and the Stockholm Regional Council will provide the remaining 570.[46]
+Economics[edit]Transport[edit]On 15 March SAS announced that they would temporarily reduce their workforce by 10 000 people which constitutes roughly 90% of their workforce.[47]
+Education[edit]On March 13, 2020 the April Swedish Scholastic Aptitude Test ('Högskoleprovet'), was cancelled affecting approximately 70 000 prospective students who had registered themselves. This was the first time the Swedish Scholastic Aptitude Test has been cancelled since it was established in 1977.[48]
+On March 23, 2020 the Swedish National Agency for Education ('Skolverket'), cancelled the national tests to give teachers in Sweden more time to prepare for the possibility of distance education.[49]
+Defence[edit]The Swedish Armed Forces cancelled the international military exercise Aurora 20 which was scheduled to be held between May and June. Austria and Canada had previously announced their cancellation of their planned participation.[50]
+Politics[edit]On 25 March, The Swedish Social Democratic Party together with the Swedish Trade Union Confederation decided to cancel their traditional May Day demonstrations. They will instead hold an event on a digital platform, which will include speeches by the Swedish prime minister and leader of the Social Democrats, Stefan Löfven, as well as union confederation leader Karl-Petter Thorwaldsson.[51] The Left Party (Sweden) also cancelled their nationwide demonstrations, and announced the there would instead be a digital celebration, including a speech by party leader Jonas Sjöstedt.[52]
+The Almedalen Week, considered to be the biggest and most important forum in Sweden for seminars, debates and political speeches on current social issues, held in Visby every summer,[53] was cancelled as a result of the ban on large gatherings. The decision was taken on 1 April by the organiser after consultation with the major political parties.[54] Prime Minister Stefan Löfvén had already announced that he had cancelled his planned participation in the upcoming event.[55]
+Culture[edit]On 6 March, Swedish National Broadcaster SVT held a crisis meeting to consider broadcasting the live finals of Melodifestivalen 2020 on 7 March without an audience, as a response to the growing outbreak. The Danish equivalent had recently decided to broadcast Their version of the finals without an audience. Ultimately, SVT decided to allow the audience to enter the arena, although they advised people who felt sick to stay at home.[56]
+Starting 30 March 2020 the public library in Gävle will start with a book delivery service for people aged 70 or older. The library will also start a take-away service where you can pre-loan books and pick them in a take-away bag.[57]
+Sports[edit]The world's largest half marathon in Gothenburg, Göteborgsvarvet, was postponed until later in 2020 and then cancelled completely on 27 March.[58]
+On 19 March, the governing body for association football in Sweden formally announced that the premiere of the 2020 season for the first and second division leagues, men's Allsvenskan and Superettan as well as women's Damallsvenskan and Elitettan, will be postponed to late May or early June. The decision will not affect the leagues below the second level.[59] Two days later it was announced that the 2020 edition of the association football award ceremony Fotbollsgalan was cancelled.[60]
+The annual recreational bicycle race Vätternrundan, scheduled to be held in June, was also cancelled as a result of the pandemic. The organisers made the decision public on 2 April.[61][62]
+International response[edit]On 8 March Vietnam suspended its visa waiver program to Sweden and seven other European countries in response to the number of cases.[63]
+Debate[edit]International public response[edit]With Sweden having taken some of the least strict measures of any European country or of countries with a similar number of cases, the response has been both criticized and praised by international media.[64][65][66]  Sweden has more deaths than all neighboring countries combined.
+Statistics[edit]
+Additional data[edit]As of 27 March nearly 3 out of 4 patients in intensive care in Sweden are men. The majority of them have underlying symptoms such as high blood pressure. The number of deaths in Sweden is also disproportionately men.[71]
+It has also been reported that a disproportionate number of those that have died have been Swedish Somali, with 6[72]  out of 89[73] deaths being members of the Swedish Somali community in the Stockholm region.[72]
+
+The most recent[which?] datapoints in the following charts are from the Public Health Agency of Sweden, ECDC and WHO official data.[1] Older[which?] data points are from databases that compile region reports,[202][unreliable source?][203][unreliable source?] showing slightly different numbers.[clarification needed]
+[204]
+[205]Timeline[edit]References[edit]External links[edit]Emergency Information from Swedish Authorities: Official information on the novel corona Virus from The Swedish Civil Contingencies Agency – Myndigheten för samhällsskydd och beredskap.Information om Coronavirus covid-19 from The Public Health Agency of Sweden – Folkhälsomyndigheten (In Swedish).FAQ about COVID-19 on The Public Health Agency of Sweden – Folkhälsomyndigheten.Covid-19 – coronavirus from Vårdguiden 1177 (In Swedish).
